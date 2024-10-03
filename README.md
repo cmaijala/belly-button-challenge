@@ -44,7 +44,7 @@
 
   * Append an html tag with that text to the #sample-metadata panel.
 
-![image](https://github.com/user-attachments/assets/3d5ec599-d3a6-4a2c-bfcd-136f0cae4697)
+![image](https://github.com/user-attachments/assets/cdff65f8-8a90-4f99-8531-ad3185bd17dd)
 
 ## 5.) The plots are able to update when a new sample is selected. This is my dashboard shown as follows:
 ![image](https://github.com/user-attachments/assets/cbf0749c-9735-48f9-adab-91252895882f)
