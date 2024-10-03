@@ -36,7 +36,7 @@
 
   * Use otu_labels for the text values.
 
-![image](https://github.com/user-attachments/assets/85be3ef5-dfce-4942-bc2f-b4c5c001c738)
+![image](https://github.com/user-attachments/assets/57de231a-c0a5-4441-89ff-2e98efe9a980)
 
 ## 4.) I then displayed the sample's metadata, individual's demographic information.
 
