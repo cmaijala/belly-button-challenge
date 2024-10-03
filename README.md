@@ -16,33 +16,33 @@
 
 ## 2.) I created a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual.
 
-  * Use sample_values as the values for the bar chart.
+  * I used sample_values as the values for the bar chart.
 
-  * Use otu_ids as the labels for the bar chart.
+  * I used otu_ids as the labels for the bar chart.
 
-  * Use otu_labels as the hovertext for the chart.
+  * I used otu_labels as the hovertext for the chart.
 
 ![image](https://github.com/user-attachments/assets/4f30285d-8446-4323-ab1c-bf9ab7149f2d)
 
 ## 3.) I then created a bubble chart that displays each sample.
 
-  * Use otu_ids for the x values.
+  * I used otu_ids for the x values.
 
-  * Use sample_values for the y values.
+  * I used sample_values for the y values.
 
-  * Use sample_values for the marker size.
+  * I used sample_values for the marker size.
 
-  * Use otu_ids for the marker colors.
+  * I used otu_ids for the marker colors.
 
-  * Use otu_labels for the text values.
+  * I used otu_labels for the text values.
 
 ![image](https://github.com/user-attachments/assets/57de231a-c0a5-4441-89ff-2e98efe9a980)
 
 ## 4.) I then displayed the sample's metadata, individual's demographic information.
 
-  * Loop through each key-value pair from the metadata JSON object and create a text string.
+  * I looped through each key-value pair from the metadata JSON object and create a text string.
 
-  * Append an html tag with that text to the #sample-metadata panel.
+  * I appended an html tag with that text to the #sample-metadata panel.
 
 ![image](https://github.com/user-attachments/assets/cdff65f8-8a90-4f99-8531-ad3185bd17dd)
 
