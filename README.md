@@ -47,7 +47,7 @@
 ![image](https://github.com/user-attachments/assets/3d5ec599-d3a6-4a2c-bfcd-136f0cae4697)
 
 ## 5.) The plots are able to update when a new sample is selected. This is my dashboard shown as follows:
-![image](https://github.com/user-attachments/assets/7c6fd5b9-1ae7-47a2-8b00-ca66d718a486)
+![image](https://github.com/user-attachments/assets/cbf0749c-9735-48f9-adab-91252895882f)
 
 ## 6.) Lastly I deployed my app to a free static page hosting service on GitHub Pages. Submitted the links to my deployment and my GitHub repo. 
 
