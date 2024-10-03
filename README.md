@@ -22,7 +22,7 @@
 
   * Use otu_labels as the hovertext for the chart.
 
-![image](https://github.com/user-attachments/assets/0c96f50e-c233-45cf-99ac-c89ea7bd51e1)
+![image](https://github.com/user-attachments/assets/4f30285d-8446-4323-ab1c-bf9ab7149f2d)
 
 ## 3.) I then created a bubble chart that displays each sample.
 
