@@ -100,6 +100,6 @@
 ## References
 Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/Links to an external site.
 
-
+This project utilized ChatGPT, a language model developed by OpenAI, for generating text and answering questions. For more information about ChatGPT, visit OpenAI's ChatGPT.
 
 
