@@ -49,7 +49,7 @@
 ## 5.) The plots are able to update when a new sample is selected. This is my dashboard shown as follows:
 ![image](https://github.com/user-attachments/assets/cbf0749c-9735-48f9-adab-91252895882f)
 
-## 6.) Lastly I deployed my app to a free static page hosting service on GitHub Pages. Submitted the links to my deployment and my GitHub repo. 
+## 6.) Lastly I deployed my app to a free static page hosting service on GitHub Pages. Submitted the links to my deployment and my GitHub repo. Here is my deployment link: https://cmaijala.github.io/belly-button-app/ 
 
 
 
